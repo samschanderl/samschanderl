@@ -4,7 +4,7 @@ I'm Samuel, a web developer from Berlin, Germany.
 
 Here are some small projects I've worked on:
 
-## [Certificate Generator](https://nimble-crepe-557937.netlify.app/)
+### [Certificate Generator](https://nimble-crepe-557937.netlify.app/)
 - Simple JS app that lets the user type his/her name and generate a downloadable course certificate for him/her
 
 <!--
