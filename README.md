@@ -10,6 +10,9 @@ Here are some small projects I've worked on:
 ### [Todo App (React)](https://delightful-cocada-b8dc0f.netlify.app/)
 - Simple todo app written in React that allows you to add todos, mark them as complete, and delete them as you like.
 
+### [Memory Game (React)](https://resilient-mandazi-4de51d.netlify.app/)
+- Simple memory game that lets you find matching cards and counts turns.
+
 <!--
 **samschanderl/samschanderl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
