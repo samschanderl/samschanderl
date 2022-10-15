@@ -4,6 +4,9 @@ I'm Samuel, a web developer from Berlin, Germany.
 
 Here are some small projects I've worked on:
 
+### [Apartment/House Listing Site (React)](https://jocular-biscuit-1f33db.netlify.app/)
+- Site lists apartments/houses and allows to upload new listings. Each listing can be viewed and a modal with contact form can be opened.
+
 ### [Certificate Generator](https://nimble-crepe-557937.netlify.app/)
 - Simple JS app that lets the user type his/her name and generate a downloadable course certificate for him/her
 
