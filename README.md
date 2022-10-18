@@ -4,6 +4,9 @@ I'm Samuel, a web developer from Berlin, Germany.
 
 Here are some small projects I've worked on:
 
+### [Meditation App](https://venerable-platypus-64b48f.netlify.app/)
+- simple meditation app that lets you choose a sounds and guides you with your breath.
+
 ### [Apartment/House Listing Site (React)](https://jocular-biscuit-1f33db.netlify.app/)
 - Site lists apartments/houses and allows to upload new listings. Each listing can be viewed and a modal with contact form can be opened.
 
