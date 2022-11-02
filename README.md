@@ -4,16 +4,18 @@ I'm Samuel, a web developer from Berlin, Germany.
 
 ### [Check My Portfolio Page](https://samuel-schanderl.eu)
 
-🔧 My skills
+#### 🔧 My skills
 
 - HTML & CSS
 - Javascript
 - ReactJS
 - VueJS
+- Python
 
-🌱 I’m currently learning
+#### 🌱 I’m currently learning
 
 - NodeJS
+- Firebase
 
 Here are some small projects I've worked on:
 
