@@ -17,6 +17,15 @@ I'm Samuel, a web developer from Berlin, Germany.
 - NodeJS
 - Firebase
 
+## Currently working on
+
+### [CV Generator App (In Progress)](https://magical-pegasus-4f3804.netlify.app/)
+- Current tasks: creating UI, data flow
+- Upcoming tasks: allow user sign up and login and data retrieval with Firebase
+- Upcoming tasks: allow download functionality
+
+## Finished Projects
+
 Here are some small projects I've worked on:
 
 ### [Meditation App](https://venerable-platypus-64b48f.netlify.app/)
