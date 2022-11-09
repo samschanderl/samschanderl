@@ -19,7 +19,7 @@ I'm Samuel, a web developer from Berlin, Germany.
 
 ## Currently working on
 
-### [CV Generator App (In Progress)](https://magical-pegasus-4f3804.netlify.app/)
+### [CV Generator App (React) - In Progress](https://magical-pegasus-4f3804.netlify.app/)
 - Current tasks: creating UI, data flow
 - Upcoming tasks: allow user sign up and login and data retrieval with Firebase
 - Upcoming tasks: allow download functionality
